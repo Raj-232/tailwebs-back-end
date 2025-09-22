@@ -224,7 +224,7 @@ Test the API endpoints using tools like:
 ## 📁 Project Structure
 
 ```
-backend/
+tailwebs-back-end/
 ├── config/
 │   └── db.js              # Database configuration
 ├── controllers/
