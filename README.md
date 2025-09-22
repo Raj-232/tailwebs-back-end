@@ -44,8 +44,8 @@ A Node.js/Express backend API for managing assignments between teachers and stud
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd backend
+   git clone https://github.com/Raj-232/tailwebs-back-end.git
+   cd tailwebs-back-end
    ```
 
 2. **Install dependencies**
