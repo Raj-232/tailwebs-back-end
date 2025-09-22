@@ -9,6 +9,7 @@ const authRoutes = require('./routes/auth');
 const assignmentRoutes = require('./routes/assignments');
 
 dotenv.config();
+dotenv.config({ path: `.env.local`, override: true });
 connectDB();
 
 const app = express();

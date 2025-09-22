@@ -54,7 +54,7 @@ A Node.js/Express backend API for managing assignments between teachers and stud
    ```
 
 3. **Environment Setup**
-   Create a `.env` file in the root directory:
+   Create a `.env.local` file in the root directory:
    ```env
    PORT=3000
    MONGODB_URI=mongodb://localhost:27017/assignment-system
@@ -258,14 +258,6 @@ tailwebs-back-end/
 | `MONGODB_URI` | MongoDB connection string | - |
 | `JWT_SECRET` | JWT signing secret | - |
 | `NODE_ENV` | Environment mode | development |
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ## 📄 License
 
